@@ -1,0 +1,40 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+    
+}
+#logo img{
+    width: 50px;
+    height: 50px;
+}
+/* Home */
+#home{
+    height: 280px;
+    padding:0px 100px;
+}
+#home h1{
+    font-size: 20px;
+}
+#home ::before{
+    height: 900px;
+}
+#home p{
+    font-size: 13px;
+}
+
+/* Section  */
+#services{
+    flex-direction: column;
+}
+
+#services .box{
+    
+}
+
+.services-container h1{
+    margin: 190px 0px 0px;
+}
+
+#clients{
+    flex-wrap: wrap;
+}
